@@ -1,4 +1,4 @@
-package br.ufpe.cin.analisador;
+package br.ufpe.cin.if688.jflex;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

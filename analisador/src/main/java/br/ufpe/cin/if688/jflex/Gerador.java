@@ -1,4 +1,4 @@
-package br.ufpe.cin.analisador;
+package br.ufpe.cin.if688.jflex;
 
 import java.io.File;
 
@@ -9,7 +9,7 @@ import java.io.File;
 
 public class Gerador {
 	public static void main(String[] args) {
-		String loginAluno = "MiniJava";
+		String loginAluno = "aasj2";
 		String path = "src/main/resources/";   
 		String arquivo = path + loginAluno + ".jflex";    
 		File file = new File(arquivo);	
